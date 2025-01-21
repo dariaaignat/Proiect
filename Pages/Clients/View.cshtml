@@ -1,0 +1,56 @@
+﻿@page
+@model IgnatDariaLaboratoryAnalysis.Pages.Clients.ViewModel
+@{
+    ViewData["Title"] = "Clients";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Clients</h2>
+        <a asp-page="./Add" class="btn btn-primary">Add New Client</a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Telephone</th>
+                    <th>Work Point</th>
+                    <th>Delegate Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Clients != null && Model.Clients.Any())
+                {
+                    @foreach (var client in Model.Clients)
+                    {
+                        <tr>
+                            <td>@client.Name</td>
+                            <td>@client.Address</td>
+                            <td>@client.TelephoneNumber</td>
+                            <td>@(client.WorkPoint ?? "N/A")</td>
+                            <td>@(client.DelegateName ?? "N/A")</td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    <a asp-page="./Edit" asp-route-id="@client.UserId"
+                                       class="btn btn-sm btn-warning">Edit</a>
+                                    <a asp-page="./Delete" asp-route-id="@client.UserId"
+                                       class="btn btn-sm btn-danger">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="6" class="text-center">No clients found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

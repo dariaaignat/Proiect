@@ -1,0 +1,52 @@
+﻿@page
+@model IgnatDariaLaboratoryAnalysis.Pages.Analysis.AddModel
+@{
+    ViewData["Title"] = "Add Analysis";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2>Add New Analysis</h2>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <form method="post">
+            <div class="form-group mb-3">
+                <label asp-for="Analysis.Name"></label>
+                <input asp-for="Analysis.Name" class="form-control" />
+                <span asp-validation-for="Analysis.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Analysis.Description"></label>
+                <textarea asp-for="Analysis.Description" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Analysis.Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Analysis.CultureEnvironment"></label>
+                <input asp-for="Analysis.CultureEnvironment" class="form-control" />
+                <span asp-validation-for="Analysis.CultureEnvironment" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Analysis.ThermostaticTemperature"></label>
+                <input asp-for="Analysis.ThermostaticTemperature" class="form-control" type="number" step="0.01" />
+                <span asp-validation-for="Analysis.ThermostaticTemperature" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Analysis.CompletionDays"></label>
+                <input asp-for="Analysis.CompletionDays" class="form-control" type="number" />
+                <span asp-validation-for="Analysis.CompletionDays" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Add Analysis</button>
+            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\database\\labdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:database\\labdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|c:\\users\\daria\\desktop\\ie 3\\medii\\ignatdarialims\\ignatdarialaboratoryanalysis\\pages\\clients\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66C6C1D9-0974-4505-AFEB-2A8A9DB55B34}|IgnatDariaLaboratoryAnalysis.csproj|solutionrelative:pages\\clients\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:13:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:07:33.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:07:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Database\\LabDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\LabDbContext.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Database\\LabDbContext.cs",
+              "RelativeToolTip": "Database\\LabDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:49:38.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clients\\Delete.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:13:24.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T10:03:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:07:36.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Add.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Add.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Add.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T14:31:59.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\View.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\View.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\View.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\View.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T10:03:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Add.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clients\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:12:17.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T16:13:05.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clients\\Edit.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:12:50.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T16:12:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\View.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clients\\View.cshtml.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\IE 3\\medii\\IgnatDariaLIMS\\IgnatDariaLaboratoryAnalysis\\Pages\\Clients\\View.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clients\\View.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:03:46.058Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

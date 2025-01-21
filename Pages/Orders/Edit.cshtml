@@ -1,0 +1,83 @@
+﻿@page
+@model IgnatDariaLaboratoryAnalysis.Pages.Orders.EditModel
+@{
+    ViewData["Title"] = "Edit Order";
+}
+
+<div class="container mt-4">
+    <h2>Edit Order</h2>
+    <form method="post">
+        <input type="hidden" asp-for="Order.Id" />
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="Order.ClientId" class="form-label"></label>
+                    <select asp-for="Order.ClientId" class="form-select" asp-items="Model.ClientList">
+                        <option value="">-- Select Client --</option>
+                    </select>
+                    <span asp-validation-for="Order.ClientId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.EmployeeId" class="form-label"></label>
+                    <select asp-for="Order.EmployeeId" class="form-select" asp-items="Model.EmployeeList">
+                        <option value="">-- Select Employee --</option>
+                    </select>
+                    <span asp-validation-for="Order.EmployeeId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.OrderDate" class="form-label"></label>
+                    <input asp-for="Order.OrderDate" class="form-control" />
+                    <span asp-validation-for="Order.OrderDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.SampleName" class="form-label"></label>
+                    <input asp-for="Order.SampleName" class="form-control" />
+                    <span asp-validation-for="Order.SampleName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="Order.NumberOfSamples" class="form-label"></label>
+                    <input asp-for="Order.NumberOfSamples" class="form-control" />
+                    <span asp-validation-for="Order.NumberOfSamples" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.SampleManufactureDate" class="form-label"></label>
+                    <input asp-for="Order.SampleManufactureDate" class="form-control" />
+                    <span asp-validation-for="Order.SampleManufactureDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.SampleExpirationDate" class="form-label"></label>
+                    <input asp-for="Order.SampleExpirationDate" class="form-control" />
+                    <span asp-validation-for="Order.SampleExpirationDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Order.SelectedAnalysisIds" class="form-label"></label>
+                    <select asp-for="Order.SelectedAnalysisIds" class="form-select" asp-items="Model.AnalysisList" multiple>
+                    </select>
+                    <span asp-validation-for="Order.SelectedAnalysisIds" class="text-danger"></span>
+                    <small class="form-text text-muted">Hold Ctrl to select multiple analyses</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-page="./View" class="btn btn-secondary">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

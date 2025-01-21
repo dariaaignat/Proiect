@@ -1,0 +1,59 @@
+﻿@* EditAnalysis.cshtml *@
+@page
+@model IgnatDariaLaboratoryAnalysis.Pages.Analysis.EditModel
+@{
+    ViewData["Title"] = "Edit Analysis";
+}
+
+<div class="container mt-4">
+    <h2>Edit Analysis</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-8">
+            <form method="post">
+                <input type="hidden" asp-for="Analysis.Id" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Analysis.Name" class="control-label"></label>
+                    <input asp-for="Analysis.Name" class="form-control" />
+                    <span asp-validation-for="Analysis.Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Analysis.Description" class="control-label"></label>
+                    <textarea asp-for="Analysis.Description" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="Analysis.Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Analysis.CultureEnvironment" class="control-label">Culture Environment</label>
+                    <input asp-for="Analysis.CultureEnvironment" class="form-control" />
+                    <span asp-validation-for="Analysis.CultureEnvironment" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Analysis.ThermostaticTemperature" class="control-label">Thermostatic Temperature</label>
+                    <input asp-for="Analysis.ThermostaticTemperature" class="form-control" />
+                    <span asp-validation-for="Analysis.ThermostaticTemperature" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Analysis.CompletionDays" class="control-label">Completion Days</label>
+                    <input asp-for="Analysis.CompletionDays" class="form-control" />
+                    <span asp-validation-for="Analysis.CompletionDays" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <a asp-page="./View" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
